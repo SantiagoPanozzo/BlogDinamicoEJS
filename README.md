@@ -1,24 +1,14 @@
-# Getting Started with [Fastify-CLI](https://www.npmjs.com/package/fastify-cli)
+# Proyecto Blog Personal Dinámico con EJS
 
-This project was bootstrapped with Fastify-CLI.
+Hecho por Santiago Panozzo utilizando fastify-cli.
 
-## Available Scripts
+## Scripts
 
-In the project directory, you can run:
+### Nota:
+Es posible que deba correrse `npm install` para cargar las dependencias antes de correr el servidor.
 
-### `npm run dev`
 
-To start the app in dev mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Para correr el servidor:
+`npm run dev`
 
-### `npm start`
-
-For production mode
-
-### `npm run test`
-
-Run the test cases.
-
-## Learn More
-
-To learn Fastify, check out the [Fastify documentation](https://www.fastify.io/docs/latest/).
+Se abre en [http://localhost:3000](http://localhost:3000).
