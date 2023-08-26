@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-    font-family: Mystery Quest;
+    font-family: Mystery Quest, fantasy, sans-serif;
     font-size: 42pt;
 }
 
@@ -19,7 +19,7 @@ body header {
 
 a {
     color: blue;
-    transition: color 0.3 ease;
+    transition: color 0.3s ease;
 }
 
 a:hover {
